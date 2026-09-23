@@ -1,3 +1,6 @@
+
+Video Link :- https://drive.google.com/file/d/1jkhQVc-mCFvJG_UTvj5WvCSIbIOG__gP/view?usp=drive_link
+
 # JavaScript Slider
 
 A simple, responsive image slider (carousel) built with vanilla HTML, CSS, and JavaScript. Supports manual navigation with prev/next buttons and auto-advances every few seconds.
